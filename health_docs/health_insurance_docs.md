@@ -5,4 +5,4 @@ basically covers medical and hospitalization costs along with room rents, pre an
 
 for extra features, riders can be added
 
-opd is beneficial
+don't go for deductible plans
